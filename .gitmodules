@@ -1,0 +1,4 @@
+[submodule "nowornever999blog/public"]
+	path = nowornever999blog/public
+	url = https://github.com/nowornever999/nowornever999.github.io.git
+	branch = main

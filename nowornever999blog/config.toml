@@ -1,0 +1,4 @@
+baseURL = "https://nowornever999.github.io/"
+languageCode = "en-us"
+title = "J's Page"
+theme="contrast-hugo"
